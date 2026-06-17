@@ -1,0 +1,107 @@
+[
+    {
+        "track_name": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "genre": "Rock",
+        "duration_minutes": 5.9,
+        "listens": 150
+    },
+    {
+        "track_name": "Shape of You",
+        "artist": "Ed Sheeran",
+        "genre": "Pop",
+        "duration_minutes": 3.9,
+        "listens": 210
+    },
+    {
+        "track_name": "Hotel California",
+        "artist": "Eagles",
+        "genre": "Rock",
+        "duration_minutes": 6.3,
+        "listens": 95
+    },
+    {
+        "track_name": "Blinding Lights",
+        "artist": "The Weeknd",
+        "genre": "Pop",
+        "duration_minutes": 3.3,
+        "listens": 180
+    },
+    {
+        "track_name": "Lose Yourself",
+        "artist": "Eminem",
+        "genre": "Hip-Hop",
+        "duration_minutes": 5.2,
+        "listens": 120
+    },
+    {
+        "track_name": "Despacito",
+        "artist": "Luis Fonsi",
+        "genre": "Latin",
+        "duration_minutes": 4.2,
+        "listens": 200
+    },
+    {
+        "track_name": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "genre": "Rock",
+        "duration_minutes": 5.9,
+        "listens": 45
+    },
+    {
+        "track_name": "Imagine",
+        "artist": "John Lennon",
+        "genre": "Rock",
+        "duration_minutes": 3.0,
+        "listens": 75
+    },
+    {
+        "track_name": "Gangnam Style",
+        "artist": "PSY",
+        "genre": "K-Pop",
+        "duration_minutes": 4.0,
+        "listens": 160
+    },
+    {
+        "track_name": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "genre": "Grunge",
+        "duration_minutes": 5.0,
+        "listens": 88
+    },
+    {
+        "track_name": "Rolling in the Deep",
+        "artist": "Adele",
+        "genre": "Pop",
+        "duration_minutes": 3.8,
+        "listens": 130
+    },
+    {
+        "track_name": "Paint It Black",
+        "artist": "The Rolling Stones",
+        "genre": "Rock",
+        "duration_minutes": 3.4,
+        "listens": 60
+    },
+    {
+        "track_name": "Smooth Criminal",
+        "artist": "Michael Jackson",
+        "genre": "Pop",
+        "duration_minutes": 4.2,
+        "listens": 110
+    },
+    {
+        "track_name": "In Da Club",
+        "artist": "50 Cent",
+        "genre": "Hip-Hop",
+        "duration_minutes": 3.7,
+        "listens": 140
+    },
+    {
+        "track_name": "Waka Waka",
+        "artist": "Shakira",
+        "genre": "Latin",
+        "duration_minutes": 3.8,
+        "listens": 85
+    }
+]
